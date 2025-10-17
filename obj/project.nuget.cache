@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXh87A9Y6Ks=",
+  "success": true,
+  "projectFilePath": "/home/upxrov/Projects/labs/lab_3/lab_3.csproj",
+  "expectedPackageFiles": [
+    "/home/upxrov/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
