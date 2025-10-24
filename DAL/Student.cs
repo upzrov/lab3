@@ -4,7 +4,7 @@ using MessagePack;
 namespace lab_3.DAL
 {
     [MessagePackObject]
-    public class Student
+    public class Student : IPerson
     {
         [Key(0)]
         public int Id { get; set; }
